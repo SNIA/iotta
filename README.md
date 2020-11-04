@@ -10,3 +10,7 @@ to other repositories maintained by the TWG.
 
 * [DataSeries](http://github.com/dataseries) is a library, toolset,
   and data format optimized for capturing trace-style data.
+
+Persons who wish to contribute to any of the IOTTA repositories should
+either be a member of the IOTTA TWG, or should complete the simple
+[SNIA Contributor License](https://www.snia.org/CLA).
