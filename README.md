@@ -1,7 +1,7 @@
 # IOTTA Index
 
 This repository serves as an index to other Github repositories that
-are maintained by the SNIA I/O Tools, Traces, and Analysis (IOTTA)
+are maintained by the SNIA I/O Traces, Tools, and Analysis (IOTTA)
 Technical Working Group.  This repository contains no code, only links
 to other repositories maintained by the TWG.
 
